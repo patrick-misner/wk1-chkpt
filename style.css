@@ -12,6 +12,22 @@ main {
   background-color: #07AB80; 
 }
 
+.font-bg-color{
+  color: #07AB80; 
+}
+
+.bg-color-white{
+  background-color: white;
+}
+
+.bg-color-offwhite{
+  background-color: rgb(219, 219, 219);
+}
+
+.lg-font{
+  font-size: 50px;
+}
+
 .bg-main-img {
   background-image: url('bg-img.jpeg');
   /* NOTE use the percentages to to get a more exact fit and position */
