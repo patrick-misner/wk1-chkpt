@@ -28,6 +28,10 @@ main {
   font-size: 50px;
 }
 
+.md-font{
+  font-size: 35px;
+}
+
 .bg-main-img {
   background-image: url('bg-img.jpeg');
   /* NOTE use the percentages to to get a more exact fit and position */
@@ -43,17 +47,12 @@ main {
   border-radius: 0rem;
 }
 
-.vl {
-  border-left: 6px solid #07AB80;
-  height: 6rem;
-}
-
 .border-start-fancy{
   border-left: 5px solid #07AB80;
 }
 
-@media (min-width: 992px) {
+/* @media (min-width: 992px) {
   .card-spill{
     position: absolute;
   }
-}
+} */
