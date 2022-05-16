@@ -67,6 +67,11 @@ main {
   border: none !important;
 }
 
+.form-check-input:checked {
+  background-color: #07AB80;
+  border-color: #07AB80;
+}
+
 .text-shadow {
 text-shadow: 1px 1px #906e00;
 }
