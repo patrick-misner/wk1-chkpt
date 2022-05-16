@@ -60,3 +60,21 @@ main {
     position: absolute;
   }
 }
+
+.btn:focus, .btn:active{
+  background-color: gray;
+  outline: none !important;
+  border: none !important;
+}
+
+.text-shadow {
+text-shadow: 1px 1px #906e00;
+}
+.grow { 
+  transition: all .2s ease-in-out; 
+  }
+  
+  .grow:hover { 
+  transform: scale(1.1); 
+  background-color: gray;
+  }
