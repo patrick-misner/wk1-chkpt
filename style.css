@@ -38,9 +38,6 @@ main {
 
 .bg-main-img {
   background-image: url('bg-img.jpeg');
-  /* NOTE use the percentages to to get a more exact fit and position */
-  /* background-size: 112%;
-  background-position: 18% 33%; */
   background-size: cover;
   background-position: center;
   min-height: 30vh;
