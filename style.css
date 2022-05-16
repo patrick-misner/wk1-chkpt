@@ -61,6 +61,10 @@ main {
   }
 }
 
+.custom-font {
+font-family:  'Playfair Display', serif;
+}
+
 .btn:focus, .btn:active{
   background-color: gray;
   outline: none !important;
